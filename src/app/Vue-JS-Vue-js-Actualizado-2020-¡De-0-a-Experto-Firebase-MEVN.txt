@@ -1,0 +1,6 @@
+git init
+git status
+git add .
+git commit -m "mensaje"
+git add origin master "link del repositorio remoto"
+git push..
